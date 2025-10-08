@@ -7,5 +7,5 @@
 5. Представления (views)
 6. Логика с CASE, COALESCE, NULLIF 
 7. Функции SQL и plpgsql (functions)
-8. Оконные функции (window_func)
+8. Оконные функции + CTE (window_func)
 9. Работа со временем (work_over_time)
